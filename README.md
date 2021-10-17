@@ -1,2 +1,3 @@
-# Discord-Activity
-A simple Discord Bot For Activities.
+# Simple Discord Bot For Discord's Activites. 🕹
+
+[ZeOri, Stay UP.](https://zeori.xyz)
